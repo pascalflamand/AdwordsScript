@@ -1,9 +1,3 @@
-/******************************************
- * Manage AdWords Ads Using Excel
- * Version 1.0
- * Author: Russ Savage
- * FreeAdWordsScripts.com
- ****************************************/
 var FOLDER_PATH = 'AdWordsData'; //The path where the file will be stored on GDrive
 var FILE_NAME = 'creatives.csv'; //The name of the file on GDrive
   
