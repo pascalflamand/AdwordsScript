@@ -1,13 +1,3 @@
-/*********************************************
-* Automated Creative Testing With Statistical Significance
-* Version 1.1.1
-* ChangeLog v1.1.1 - Fixed bug with getDisplayUrl
-* ChangeLog v1.1 
-*   - Added ability to only run on some campaigns
-*   - Fixed bug in info logging
-* Russ Savage
-* FreeAdWordsScripts.com
-**********************************************/
 var EXTRA_LOGS = true;
 var TO = ['your_email@domain.com'];
 var CONFIDENCE_LEVEL = 95; // 90%, 95%, or 99% are most common
