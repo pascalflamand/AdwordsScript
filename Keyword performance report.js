@@ -1,7 +1,7 @@
 // Comma-separated list of recipients.
-var RECIPIENT_EMAIL = 'pflamand@conversio.ca';
+var RECIPIENT_EMAIL = 'Your Email';
 // Spreadsheet template.
-var SPREADSHEET_URL = 'https://docs.google.com/a/google.com/spreadsheet/ccc?key=0Aoxp01WxRqn2dFE3aHhSRVk4bWdNZlpqNDlVV2JEenc#gid=0';
+var SPREADSHEET_URL = 'Your Spread Sheet URL';
 
 /**
  * This script computes a keyword performance report
