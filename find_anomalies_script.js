@@ -1,19 +1,8 @@
 
-  /**************************************
-  * Find the Anomalies
-  * Created By: Russ Savage
-  * Version: 1.2
-  * Changelog v1.2
-  *  - Fixed divide by 0 errors
-  *  - Changed SIG_FIGS to DECIMAL_PLACES
-  * Changelog v1.1
-  *  - Added ability to tag ad anomalies as well
-  * FreeAdWordsScripts.com
-  **************************************/
-  var DATE_RANGE = 'LAST_30_DAYS';
+   var DATE_RANGE = 'LAST_30_DAYS';
   var DECIMAL_PLACES = 3;
   var STANDARD_DEVIATIONS = 2;
-  var TO = ['pflamand@conversio.ca'];
+  var TO = ['Your Email'];
     
 function main() {
     // This will add labels to and send emails about adgroups, keywords and ads. Remove any if you like.
