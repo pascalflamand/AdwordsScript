@@ -1,14 +1,9 @@
-//-----------------------------------
-// Dynamically Adjust Campaign Budgets v2.0
-// Created By: Russ Savage
-// FreeAdWordsScripts.com
-//-----------------------------------
 // Let's set some constants
 var TIMEFRAME = "THIS_MONTH";
 //if the campaign is not in the spreadsheet, the budget is reset
 //to this value at the beginning of the month.
 var DEFAULT_BUDGET = 100; 
-var SPREADSHEET_URL = "https://docs.google.com/a/escaladeweb.com/spreadsheet/ccc?key=0AvbIELGS8y0QdDVoZ1J3WGZCSllMcW5ZZHBSS3lVbkE#gid=0";
+var SPREADSHEET_URL = "Your Spread sheet URL ";
 var LABEL = ""; //Fill in if you only want to operate on campaigns with this label
  
 var SIG_FIGS = 1000; //this means round all calculations to 3 decimal places
