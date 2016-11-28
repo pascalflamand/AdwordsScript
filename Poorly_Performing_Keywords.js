@@ -1,9 +1,7 @@
-// List of phrases that indicate a keyword is part of your brand.
-// In this example, we operate a fudge store named Elmer Fudge.
-// Keywords with our brand name are "branded" keywords, those without "non-brand".
-var BRAND_NAMES = ['eclectik','traiteur eclectik','eclectik traiteur','eclectik traiteur actualisé'];
+
+var BRAND_NAMES = ['keyword1','keyword2','...'];
 // Set this to a your email address to get an email summary of new keywords to review.
-var EMAIL_ADDRESS = 'pflamand@escaladeweb.com';
+var EMAIL_ADDRESS = 'Your Email';
 
 function main() {
   createLabels();
