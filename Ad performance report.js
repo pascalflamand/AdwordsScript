@@ -1,7 +1,7 @@
 // Comma-separated list of recipients.
-var RECIPIENT_EMAIL = 'pflamand@escaladeweb.com';
+var RECIPIENT_EMAIL = 'Your Email';
 // Spreadsheet template.
-var SPREADSHEET_URL = 'https://docs.google.com/a/google.com/spreadsheet/ccc?key=0Api8s2JZI8E3dExocHZseFdvcEZHQ0hGeWh0WUpSZkE#gid=12';
+var SPREADSHEET_URL = 'Your Spreed sheet URL';
 
 /**
  * This script computes an Ad performance report
