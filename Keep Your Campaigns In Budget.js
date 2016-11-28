@@ -1,12 +1,3 @@
-/******************************************
-* Keep Your Campaigns In Budget
-* Version 1.1
-* ChangeLog v1.1 
-*   - cleaned up code
-*   - added ability for any dates
-* Created By: Russ Savage
-* FreeAdWordsScripts.com
-******************************************/
 // Let's set some constants
 var MONTHLY_BUDGET = 5000.00;
  
