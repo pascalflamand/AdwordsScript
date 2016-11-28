@@ -1,17 +1,3 @@
-/**************************************
-* Track Entity Creation Date
-* Version 1.4
-* Changelog v1.4
-*  - Removed apiVersion from reporting call
-* Changelog v1.3
-*  - Updated script to handle all entities
-* Changelog v1.2
-*  - Fixed an issue with comparing dates
-* ChangeLog v1.1
-*  - Updated logic to work with larger accounts
-* Created By: Russ Savage
-* http://www.FreeAdWordsScripts.com
-**************************************/
 //All my labels will start with this. For example: Created:2013-05-01
 var LABEL_PREFIX = 'Created:';
 var DAYS_IN_REPORT = 30;
