@@ -1,15 +1,7 @@
-/****************************
-* Find Broken Urls In Your Account
-* Version 1.1
-* ChangeLog v1.1
-*  - Updated to only see Text Ads
-* Created By: Russ Savage
-* FreeAdWordsScripts.com
-****************************/
+
 function main() {
-  // You can add more if you want: http://goo.gl/VhIX
   var BAD_CODES = [404,500];
-  var TO = ['pflamand@escalademarketing.com'/*,'email_address_2@example.com'*/];
+  var TO = ['your email'/*,'email_address_2@example.com'*/];
   var SUBJECT = 'Broken Url Report - ' + _getDateString();
   var HTTP_OPTIONS = {
     muteHttpExceptions:true
