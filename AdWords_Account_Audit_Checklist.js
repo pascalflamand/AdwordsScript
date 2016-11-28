@@ -1,12 +1,3 @@
-/************************************
-* AdWords Account Audit Checklist
-* Version 1.1
-* ChangeLog v1.1 - Fixed issue with extension selector.
-* Based on the blog post by Phil Kowalski
-* http://www.wordstream.com/blog/ws/2013/07/02/adwords-account-audit-checklist
-* Created By: Russ Savage
-* FreeAdWordsScripts.com
-************************************/
 function main() {
   //1. Campaigns
   //  a. Target the right locations
